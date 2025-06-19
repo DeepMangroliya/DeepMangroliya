@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-I'm Deep Mangroliya — a curious and practical data science professional and AI enthusiast passionate about transforming raw data into business value.  
+A curious and practical data science professional and AI enthusiast passionate about transforming raw data into business value.  
 
 From building secure and scalable pipelines in AWS to creating intuitive dashboards in Dash, my goal is to develop intelligent systems that drive better decisions.  
 
