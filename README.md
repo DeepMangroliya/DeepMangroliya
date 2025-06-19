@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 About Me
+  ### 🧠 Who Am I?
 
 A curious and practical data science professional and AI enthusiast passionate about transforming raw data into business value.  
 
@@ -19,7 +19,7 @@ With strong foundations in Python, SQL, and Machine Learning, I’ve worked acro
 
 ---
 
-### 🛠️ Core Skills
+### 🛠️ Skills
 
 - 🐍 **Languages & Tools**: Python (NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib), SQL, MySQL, Power BI, Excel, Postman  
 - 🤖 **ML/AI**: AI Tools, AI Models, AI Agents, Modular Agents, RAG, LangChain, TensorFlow, NLP, EDA  
