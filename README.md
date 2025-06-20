@@ -4,12 +4,22 @@
 
 🎯 **Data Scientist | 📊 Dashboard Crafter | 🔁 Pipeline Builder | 📖 Full-Time Learner**
 
-📍 Based in Canada | 💻 Working to Automate the World and Increase Revenues  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/deep-mangroliya-8331231b2/)
+📍 Based in Canada | 💻 Working to Automate the World and Increase Revenues
 
 ---
 
-  ### 🧠 Who Am I?
+### 🔗 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/deep-mangroliya-8331231b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mangroliyadeep@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/deepmangroliya" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@mangroliyadeep" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Who Am I?
 
 A curious and practical data science professional and AI enthusiast passionate about transforming raw data into business value.  
 
@@ -21,13 +31,72 @@ With strong foundations in Python, SQL, and Machine Learning, I’ve worked acro
 
 ### 🛠️ Skills
 
-- 🐍 **Languages & Tools**: Python (NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib), SQL, MySQL, Power BI, Excel, Postman  
-- 🤖 **ML/AI**: AI Tools, AI Models, AI Agents, Modular Agents, RAG, LangChain, TensorFlow, NLP, EDA  
-- 🗃️ **Databases**:  
-  - Relational: MySQL, SQL Server, AWS RDS, AWS Aurora  
-  - Non-Relational: MongoDB, VectorDB, DynamoDB, DocumentDB  
-- ☁️ **Cloud & DevOps**: AWS, GCP, Jenkins, Airflow, GitHub Actions  
-- 📊 **Visualization**: Dash, Streamlit, Seaborn, Matplotlib, Google Data Studio
+#### 🐍 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+</p>
+
+#### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/LangChain-5F5FFF?logo=lightning&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/AI%20Tools-5A5ADB?logo=ai&logoColor=white" alt="AI Tools"/>
+  <img src="https://img.shields.io/badge/NLP-006400?logo=readthedocs&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/RAG-323330?logo=algolia&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/EDA-0047AB?logo=chartdotjs&logoColor=white" alt="EDA"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-FF69B4?logo=robotframework&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Modular%20Agents-20B2AA?logo=codeforces&logoColor=white" alt="Modular Agents"/>
+  <img src="https://img.shields.io/badge/RESTful APIs-333333?logo=postman&logoColor=white" alt="RESTful APIs"/>
+</p>
+
+#### 🗃️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?logo=amazon-aws&logoColor=white" alt="AWS RDS"/>
+  <img src="https://img.shields.io/badge/AWS Aurora-527FFF?logo=amazon-aws&logoColor=white" alt="AWS Aurora"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/VectorDB-8F00FF?logo=databricks&logoColor=white" alt="VectorDB"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/DocumentDB-1B1919?logo=mongodb&logoColor=white" alt="DocumentDB"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=apache&logoColor=white" alt="XAMPP"/>
+</p>
+
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
+</p>
+
+#### 📊 Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-0D76A8?logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Dash-00C7B7?logo=plotly&logoColor=white" alt="Dash"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Google Data Studio-4285F4?logo=google&logoColor=white" alt="Google Data Studio"/>
+</p>
 
 ---
 
@@ -97,5 +166,7 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/deep-mangroliy
 
 ---
 
-> *“Turning data chaos into clear insights for real dollars — one commit at a time.”*
+### 💬 Random Dev Quote
+
+> “Turning data chaos into clear insights for real dollars — one commit at a time.”
 
