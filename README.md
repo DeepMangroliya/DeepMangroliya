@@ -1,10 +1,24 @@
 <!-- 🎥 Header GIF -->
 
 # 👋 "Hello World", I'm Deep Mangroliya
-
 🎯 **Data Scientist | 📊 Dashboard Crafter | 🔁 Pipeline Builder | 📖 Full-Time Learner**
 
 📍 Based in Canada | 💻 Working to Automate the World and Increase Revenues
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=deepmangroliya&show_icons=true&theme=radical&hide_border=true" alt="Deep's GitHub stats" />
+    </td>
+    <td colspan="4" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmangroliya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
