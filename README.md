@@ -4,6 +4,7 @@
 🎯 **Data Scientist | 📊 Dashboard Crafter | 🔁 Pipeline Builder | 📖 Full-Time Learner**
 
 📍 Based in Canada | 💻 Working to Automate the World and Increase Revenues
+
 ---
 
 ### 📊 GitHub Stats
