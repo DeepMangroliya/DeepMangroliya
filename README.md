@@ -1,6 +1,6 @@
 <!-- 🎥 Header GIF -->
 
-# 👋 "Hello World", I'm Deep Mangroliya
+# 👋 "Hello World", I'm Deep Mangroli
 🎯 **Data Scientist | 📊 Dashboard Crafter | 🔁 Pipeline Builder | 📖 Full-Time Learner**
 
 📍 Based in Canada | 💻 Working to Automate the World and Increase Revenues
