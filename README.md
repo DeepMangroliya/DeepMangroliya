@@ -1,4 +1,4 @@
- <!-- 🎥 Header GIF -->
+<!-- 🎥 Header GIF -->
 
 # 👋 "Hello World", I'm Deep Mangroliya
 🎯 **Data Scientist | 📊 Dashboard Crafter | 🔁 Pipeline Builder | 📖 Full-Time Learner**
